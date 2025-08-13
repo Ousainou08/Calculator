@@ -5,6 +5,11 @@
   box-sizing: border-box;
 }
 
+h1{
+    text-align: center;
+    margin: 20px;
+}
+
 body {
   font-family: 'Segoe UI', sans-serif;
   background: linear-gradient(135deg, #2c3e50, #4ca1af);
